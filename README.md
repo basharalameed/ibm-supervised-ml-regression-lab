@@ -4,6 +4,7 @@
 
 [![English](https://img.shields.io/badge/Language-English%20(Primary)-0f62fe?style=for-the-badge)](./README.md)
 [![Arabic](https://img.shields.io/badge/اللغة-العربية%20(Secondary)-06b6d4?style=for-the-badge)](./README_AR.md)
+[![Live Interactive Lab](https://img.shields.io/badge/🌐%20Live%20GitHub%20Pages-Interactive%203D%20Lab-c84b31?style=for-the-badge)](https://basharalameed.github.io/ibm-supervised-ml-regression-lab/)
 [![Rubric Score](https://img.shields.io/badge/Coursera%20Rubric-10%20%2F%2010%20Verified-10b981?style=for-the-badge)](./finalassigment-finsh.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)](./LICENSE)
 
