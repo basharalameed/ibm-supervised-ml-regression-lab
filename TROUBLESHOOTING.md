@@ -68,3 +68,4 @@ Uploading `finalassigment-finsh 1.ipynb` alone resulted in `1/2` on Criterion 1 
 
 ### Solution
 Always upload the unified master file **[`finalassigment-finsh.ipynb`](./finalassigment-finsh.ipynb)** (or [`FinalAssignment-v1.ipynb`](./FinalAssignment-v1.ipynb)), which combines all 5 rubric sections, authentic `load_diabetes` data, VIF audit, 6 regression models, and pre-rendered cell outputs.
+

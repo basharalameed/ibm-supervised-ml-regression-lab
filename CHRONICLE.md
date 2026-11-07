@@ -46,3 +46,15 @@
   - `README.md`, `README_AR.md`, `TROUBLESHOOTING.md`, `CHANGELOG.md`, `LICENSE`, `.gitattributes`, `.gitignore`, `.github/workflows/pages.yml`
 - **القرارات المتخذة:**
   - تنظيم المستودع بالكامل وفق معيار `git-docs-architect` وإعداد النشر التلقائي عبر GitHub Pages.
+
+---
+
+### [2026-11-07 13:12:45 +03:00] — Upgrade 3D Regression Simulation, Bespoke Biomedical Palette & 100% EN/AR Table Translation
+- **Agent:** `[🎨🖌️💻 منسق التصميم والحركة - @design-system-master & @mubeen-explainer] (12/39)`
+- **Modified Files:**
+  - `index.html`:
+    1. Replaced the classic dark-blue palette with the bespoke **Biomedical Endocrinology Atelier** design system (`#F5F0E6` Warm Parchment, `#161514` Obsidian Espresso, `#C84B31` Arterial Terracotta, `#1B6B57` Clinical Sage, `#B87B1C` Endocrine Ochre).
+    2. Removed `"Interactive 3D Regression Manifold: BMI × Triglycerides → Progression"` and `"WebGL Three.js"`, and replaced the static footer with `"Regression Hyperplane & Patient Cloud Simulation"` + an interactive **`!` Exclamation Help Popover (`#hudHelpPopover`)**.
+    3. Embedded live equation parameters (`β₁`, `β₂`, `β₁₂`), model presets (`Multiple OLS`, `Ridge L2`, `Lasso L1`, `Poly-2 Ridge`), residual vector toggles (`y - ŷ`), cohort filters, **Full-Screen Mode (`⛶ Fullscreen`)**, and **3D Raycaster Point Hover/Click Inspection (`#hudInspectorCard`)** directly inside the 3D viewport.
+    4. Added complete Arabic translations for all 5 Task Tabs (`tabTemplates.ar`) and automatic `dir="rtl"` / `dir="ltr"` table alignment switching.
+  - `LIVING_STYLE_VAULT.md`: Archived the Biomedical Endocrinology Atelier design system.
