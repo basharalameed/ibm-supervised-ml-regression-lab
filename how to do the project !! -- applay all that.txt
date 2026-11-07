@@ -1,0 +1,70 @@
+كانت المشكلة هي ان النصوص بيضاء والخلفية بيضاء ... واتجاهات الجداول متعاكسة لا تتجه من اليمين الى اليسار المشروع بالانكليزي ويجب ان يكون كذلك النصوص والرسوم ... 
+
+الان سنعمل على مهمة جديدة تقوم انت بتسمية ملفها باسم finalassigment-finsh.ipynb 
+
+اعطني ملف لكل لسؤال باسم هذا الملف متبوع برقم السؤوال يعني 
+finalassigment-finsh 1.ipynb
+finalassigment-finsh 2.ipynb
+finalassigment-finsh 3.ipynb ... وهكذا .. حتى تنهي جميع الاسئلة 
+
+About this assignment
+Assignment type
+Practice
+Time Limit
+Unlimited
+Estimated Time
+Not provided
+Assignment attempts
+Unlimited
+Passing Grade
+50%
+Assignment Overview
+
+
+In this final project, you will apply your regression analysis skills to explore a dataset, build and compare models, and draw meaningful conclusions. This assignment is designed to assess your ability to apply statistical methods, interpret results, and communicate insights clearly and effectively.
+
+You will demonstrate your expertise by completing the following tasks, each aligned with a key evaluation criterion:
+
+
+
+[1] Dataset Description
+
+ Provide a clear overview of the dataset, including its source, structure, and key variables.
+
+
+
+[2] Analysis Objective
+
+ Clearly state the main objective(s) of your regression analysis, outlining the problem you aim to solve.
+
+
+
+[3] Model Comparison
+
+ Explore multiple linear regression models and justify which one best meets the objective(s) of your analysis.
+
+
+
+[4] Findings & Interpretation
+
+ Present key insights and results from your model in a well-structured and meaningful way.
+
+
+
+[5] Evaluation & Future Steps
+
+ Identify potential flaws or limitations in your model and suggest how the analysis can be improved with additional data or alternative techniques.
+
+Instructions
+To successfully complete this assignment, follow these steps:
+
+
+
+Prepare your report: Create a well-structured report that clearly demonstrates your understanding of the Supervised Learning Regression concepts covered in this course.
+Answer Relevant Questions: Respond to the questions asked in the Final Assignment Notebook and download the notebook to your local machine.
+Upload the Notebook: Upload the downloaded jupyter notebook.
+
+
+Grading Criteria
+This assignment consists of one  question and is worth a total of 10 points, distributed as follows:
+

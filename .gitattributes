@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.ipynb linguist-language=Jupyter\ Notebook
+*.html linguist-language=HTML
+*.md linguist-documentation=true
